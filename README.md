@@ -2,6 +2,10 @@
 
 Predicting customer lifetime value (CLV) from weekly registration cohorts and segmenting customers with RFM analysis, using BigQuery.
 
+## Link to Google Sheets Doc
+
+https://docs.google.com/spreadsheets/d/1V8RU_zTwhAfx7iabQ1ZvmPWoIhl1pcmEAs5I6KIfyfk/edit?usp=sharing
+
 ## Overview
 
 This project covers two complementary pieces of customer-value analytics:
